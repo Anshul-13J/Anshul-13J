@@ -12,21 +12,28 @@ Here are some ideas to get you started:-->
 <!-- 🤔 I’m looking for help in ... -->
 
 
+
 ## 🗣️ I speak:
+
 ![Python](https://img.shields.io/badge/-Python-ffc700?logo=Python&logoColor=2e8517&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C%20Language-black?logo=Codio&style=for-the-badge)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-white?logo=C%2B%2B&logoColor=blue&style=for-the-badge)
 
 
+
 ##🌐 I am learning:
+
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=Docker&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=fafafa&style=for-the-badge)
 
 
+
 ## ✨ I know about:
+
 ![Linux](https://img.shields.io/badge/-Linux-darkcyan?logo=Linux&logoColor=black&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git&logoColor=f01313&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&style=for-the-badge)
+
 
 ## 📈 Some of my GitHub stats:       
 
@@ -47,9 +54,6 @@ Here are some ideas to get you started:-->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Anshul-13J&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
 
-
-![ ](https://github.com/Anshul-13J/github-stats/blob/master/generated/overview.svg)
-![ ](https://github.com/Anshul-13J/github-stats/blob/master/generated/languages.svg)
 
 
 
